@@ -1,0 +1,235 @@
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\SQLite.Interop.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\log4net.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.exe
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+D:\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+D:\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+D:\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+D:\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+D:\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\SQLite.Interop.dll
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\log4net.dll
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.dll
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+E:\Gopi\Gopi\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\SQLite.Interop.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\log4net.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\log4net.dll
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.dll
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+E:\Working Spell\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Working Spell\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+E:\Working Spell\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+E:\Working Spell\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+E:\Working Spell\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+E:\Working Spell\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe.config
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.exe
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyService.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.exe
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\Neo.Lua.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\System.Data.SQLite.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HTTPProxyServer.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyDataBase.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\ProxyUI.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\MIMEIdentifier.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+F:\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+F:\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.ProjectInstaller.resources
+F:\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyServiceAppln.csproj.GenerateResource.Cache
+F:\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.exe
+F:\ProxyService2\ProxyServiceAppln\obj\x86\Debug\ProxyService.pdb

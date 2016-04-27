@@ -1,0 +1,17 @@
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\HTTPProxyServer.exe.config
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\HTTPProxyServer.exe
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\HTTPProxyServer.pdb
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\HttpsEncryptionLibrary.dll
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\log4net.dll
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\MIMEIdentifier.dll
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\Neo.Lua.dll
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\ProxyDataBase.dll
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\ProxyUI.dll
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\System.Data.SQLite.dll
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\HttpsEncryptionLibrary.pdb
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\MIMEIdentifier.pdb
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\ProxyDataBase.pdb
+E:\Working Spell\ProxyService2\HTTPProxyServer\bin\x64\Debug\ProxyUI.pdb
+E:\Working Spell\ProxyService2\HTTPProxyServer\obj\x64\Debug\HTTPProxyServer.csprojResolveAssemblyReference.cache
+E:\Working Spell\ProxyService2\HTTPProxyServer\obj\x64\Debug\HTTPProxyServer.exe
+E:\Working Spell\ProxyService2\HTTPProxyServer\obj\x64\Debug\HTTPProxyServer.pdb

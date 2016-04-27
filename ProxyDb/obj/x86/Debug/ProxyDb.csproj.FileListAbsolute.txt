@@ -1,0 +1,85 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\ProxyDb\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDb.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+D:\ProxyService2\ProxyDb\bin\x86\Debug\SQLite.Interop.dll
+D:\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.exe.config
+D:\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.exe
+D:\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+D:\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+D:\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.exe
+D:\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyDb\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDb.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyDb\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyDb\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDb.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll.config
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDb.csprojResolveAssemblyReference.cache
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyDb\bin\x86\Debug\SQLite.Interop.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll.config
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+E:\Gopi\Gopi\ProxyService2\ProxyDb\bin\x86\Debug\SQLite.Interop.dll
+E:\Gopi\Gopi\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll.config
+E:\Gopi\Gopi\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll
+E:\Gopi\Gopi\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+E:\Gopi\Gopi\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+E:\Gopi\Gopi\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.dll
+E:\Gopi\Gopi\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+E:\Working Spell\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll.config
+E:\Working Spell\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll
+E:\Working Spell\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+E:\Working Spell\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+E:\Working Spell\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.dll
+E:\Working Spell\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll.config
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll.config
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDb.csprojResolveAssemblyReference.cache
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb
+F:\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll.config
+F:\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.dll
+F:\ProxyService2\ProxyDb\bin\x86\Debug\ProxyDataBase.pdb
+F:\ProxyService2\ProxyDb\bin\x86\Debug\System.Data.SQLite.dll
+F:\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.dll
+F:\ProxyService2\ProxyDb\obj\x86\Debug\ProxyDataBase.pdb

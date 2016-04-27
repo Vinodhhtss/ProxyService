@@ -1,0 +1,30 @@
+C:\fireeye\prox\audits\winaudits\winaudits\bin\Debug\winaudits.dll
+C:\fireeye\prox\audits\winaudits\winaudits\bin\Debug\winaudits.pdb
+C:\fireeye\prox\audits\winaudits\winaudits\obj\Debug\winaudits.dll
+C:\fireeye\prox\audits\winaudits\winaudits\obj\Debug\winaudits.pdb
+C:\work\research\winaudits\sampleprog\winaudits\winaudits\bin\Debug\winaudits.dll
+C:\work\research\winaudits\sampleprog\winaudits\winaudits\bin\Debug\winaudits.pdb
+C:\work\research\winaudits\sampleprog\winaudits\winaudits\obj\Debug\winaudits.csprojResolveAssemblyReference.cache
+C:\work\research\winaudits\sampleprog\winaudits\winaudits\obj\Debug\winaudits.dll
+C:\work\research\winaudits\sampleprog\winaudits\winaudits\obj\Debug\winaudits.pdb
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudits\obj\Debug\winaudits.dll
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudits\bin\Debug\winaudits.dll
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudits\bin\Debug\winaudits.pdb
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudits\obj\Debug\winaudits.pdb
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudits\obj\Debug\winaudits.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudits\bin\Debug\winaudits.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudits\bin\Debug\winaudits.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudits\obj\Debug\winaudits.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudits\obj\Debug\winaudits.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudits\obj\Debug\winaudits.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\bin\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\bin\Debug\winaudits.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\bin\Debug\winaudits.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\bin\Debug\Forensics.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\bin\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\bin\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\bin\Debug\Forensics.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\obj\Debug\winaudits.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\obj\Debug\winaudits.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudits\obj\Debug\winaudits.pdb

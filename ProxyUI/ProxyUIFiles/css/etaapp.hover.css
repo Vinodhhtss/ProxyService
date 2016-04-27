@@ -1,0 +1,70 @@
+/*
+ * ETA Hover Effects
+ */
+
+ #etaapp-family-thumbs 
+ {
+   list-style: none;
+   text-align: center;
+ }
+
+ #etaapp-family-thumbs li 
+ {
+   position      : relative;
+   margin-right  : 7px;
+ }
+
+ #etaapp-family-thumbs li > .meta {
+   float         :  left; 
+   overflow      : hidden;
+   position      : absolute;
+   z-index       : 9999;
+   left          : 0px;
+   height        : 132px;
+   width         : 0;
+   background    : #fff url(../images/head_symbol.png) repeat-x;
+   border-radius : 10px;
+   color         : #009;
+   font-family   : Ariel, Tahoma, sans-serif;
+   font-size     : 1.2em;
+   -webkit-box-shadow   : 1px 0px 4px #8f8e88;
+   -moz-box-shadow      : 1px 0px 4px #8f8e88;
+   -o-box-shadow        : 1px 0px 4px #8f8e88;
+   box-shadow           : 1px 0px 4px #8f8e88;
+
+   -webkit-border-top-right-radius     : 4px;
+   -webkit-border-bottom-right-radius  : 4px;
+   -moz-border-radius-topright         : 4px;
+   -moz-border-radius-bottomright      : 4px;
+   border-top-right-radius             : 4px;
+   border-bottom-right-radius          : 4px;
+
+   -webkit-transition                  : all 1s;
+   -moz-transition                     : all 1s;
+   -ms-transition                      : all 1s;
+   -o-transition                       : all 1s; 
+ }
+
+ .clearfix {
+   display     : block;
+ }
+
+ #etaapp-family-thumbs  li:hover  > .meta 
+ {
+   width       : 115px;
+   padding     : 3px 5px;
+   position    : absolute;
+ }
+
+/*
+ .clearfix:after {
+   content    : ".";
+   display    : block;
+   background : #fff;
+   visibility : hidden;
+   line-height: 0;
+   height     : 0;
+ }
+*/
+
+ 

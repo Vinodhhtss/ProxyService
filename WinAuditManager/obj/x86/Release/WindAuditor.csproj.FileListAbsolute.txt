@@ -1,0 +1,29 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\WindAuditor.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\WindAuditor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\WindAuditor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\winaudits.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\Forensics.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\Microsoft.Win32.TaskScheduler.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\winaudits.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Release\Forensics.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\obj\x86\Release\WindAuditor.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\obj\x86\Release\WindAuditor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\obj\x86\Release\WindAuditor.pdb
+F:\ProxyService2\WinAuditManager\bin\x86\Release\SQLite.Interop.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Release\WindAuditor.exe.config
+F:\ProxyService2\WinAuditManager\bin\x86\Release\WindAuditor.exe
+F:\ProxyService2\WinAuditManager\bin\x86\Release\WindAuditor.pdb
+F:\ProxyService2\WinAuditManager\bin\x86\Release\Newtonsoft.Json.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Release\winaudits.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Release\System.Data.SQLite.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Release\Forensics.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Release\Microsoft.Win32.TaskScheduler.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Release\winaudits.pdb
+F:\ProxyService2\WinAuditManager\bin\x86\Release\Forensics.pdb
+F:\ProxyService2\WinAuditManager\obj\x86\Release\WindAuditor.csprojResolveAssemblyReference.cache
+F:\ProxyService2\WinAuditManager\obj\x86\Release\WindAuditor.exe
+F:\ProxyService2\WinAuditManager\obj\x86\Release\WindAuditor.pdb

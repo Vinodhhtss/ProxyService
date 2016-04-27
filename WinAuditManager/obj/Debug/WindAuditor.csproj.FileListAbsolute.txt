@@ -1,0 +1,15 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\WindAuditor.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\WindAuditor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\WindAuditor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\winaudits.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\Forensics.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\winaudits.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\Debug\Forensics.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\obj\Debug\WindAuditor.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\obj\Debug\WindAuditor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\obj\Debug\WindAuditor.pdb

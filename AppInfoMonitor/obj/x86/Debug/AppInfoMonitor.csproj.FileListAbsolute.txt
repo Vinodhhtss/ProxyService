@@ -1,0 +1,28 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\AppInfoMonitor\bin\x86\Debug\AppInfoMonitor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\AppInfoMonitor\bin\x86\Debug\AppInfoMonitor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\AppInfoMonitor\bin\x86\Debug\pipecomm.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\AppInfoMonitor\bin\x86\Debug\pipecomm.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\AppInfoMonitor\bin\x86\Debug\AppInfoMonitor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\AppInfoMonitor\bin\x86\Debug\AppInfoMonitor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\AppInfoMonitor\bin\x86\Debug\pipecomm.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\AppInfoMonitor\bin\x86\Debug\pipecomm.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\AppInfoMonitor\bin\x86\Debug\AppInfoMonitor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\AppInfoMonitor\bin\x86\Debug\AppInfoMonitor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\AppInfoMonitor\bin\x86\Debug\pipecomm.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\AppInfoMonitor\bin\x86\Debug\pipecomm.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\AppInfoMonitor\bin\x86\Debug\AppInfoMonitor.exe
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\AppInfoMonitor\bin\x86\Debug\AppInfoMonitor.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\AppInfoMonitor\bin\x86\Debug\pipecomm.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\AppInfoMonitor\bin\x86\Debug\pipecomm.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.csprojResolveAssemblyReference.cache
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.exe
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\AppInfoMonitor\obj\x86\Debug\AppInfoMonitor.pdb

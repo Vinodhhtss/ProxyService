@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6681A35B-DA46-4811-8B69-5D6DEBDC73D4}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HTTPDataAnalyzer</RootNamespace>
+    <AssemblyName>HTTPDataAnalyzer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="HttpMultipartParser, Version=1.1.5.0, Culture=neutral, PublicKeyToken=6d293681fa6c7a03, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HttpMultipartParser\HttpMultipartParser.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip, Version=1.9.8.0, Culture=neutral, PublicKeyToken=6583c7c814667745, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ziplib\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Neo.Lua">
+      <HintPath>..\lualib\Neo.Lua.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\jsonlib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.66.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\sqllib\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alerts\AlertStructure.cs" />
+    <Compile Include="Alerts\IAlert.cs" />
+    <Compile Include="Alerts\AlertOne.cs" />
+    <Compile Include="Alerts\AlertsProcessor.cs" />
+    <Compile Include="AppinfoClient.cs" />
+    <Compile Include="Config\ConfigHandler.cs" />
+    <Compile Include="Config\ConfigParameter.cs" />
+    <Compile Include="Config\Encryption.cs" />
+    <Compile Include="DBManager\DBManager.cs" />
+    <Compile Include="DBManager\InsertQueries.cs" />
+    <Compile Include="DBManager\ReadQueries.cs" />
+    <Compile Include="DBManager\RequiredTables.cs" />
+    <Compile Include="DBManager\UpdateQuery.cs" />
+    <Compile Include="FailHandler\AlertFailHandler.cs" />
+    <Compile Include="FailHandler\LazyFailHandler.cs" />
+    <Compile Include="LazyConditionChecker\PDFIdentifier.cs" />
+    <Compile Include="CLogger.cs" />
+    <Compile Include="ConstantVariables.cs" />
+    <Compile Include="Lazy\LazyAnalyserSender.cs" />
+    <Compile Include="Lazy\LazyAnalyser.cs" />
+    <Compile Include="Decompressor.cs" />
+    <Compile Include="LazyConditionChecker\ConditionChecker.cs" />
+    <Compile Include="LazyConditionChecker\NameIdentifier.cs" />
+    <Compile Include="LazyConditionChecker\MIMEIdentifiers.cs" />
+    <Compile Include="Lua\FileHandler.cs" />
+    <Compile Include="Lua\FileUtil.cs" />
+    <Compile Include="AnalyzerManager.cs" />
+    <Compile Include="LazyConditionChecker\IConditionChecker.cs" />
+    <Compile Include="JsonCircularBuffer.cs" />
+    <Compile Include="Lazy\LazyManager.cs" />
+    <Compile Include="Lua\LuaScriptHandler.cs" />
+    <Compile Include="Lua\ProxyServiceAPI.cs" />
+    <Compile Include="Lua\Util.cs" />
+    <Compile Include="MessagesDecoder.cs" />
+    <Compile Include="MIMEIdentifier.cs" />
+    <Compile Include="PacketCreator.cs" />
+    <Compile Include="PacketFilter.cs" />
+    <Compile Include="Pipe\LIPipe.cs" />
+    <Compile Include="Pipe\MessageProcessor.cs" />
+    <Compile Include="Pipe\PipeServer.cs" />
+    <Compile Include="Pipe\SecurePipeServer.cs" />
+    <Compile Include="Pipe\StartPipeServer.cs" />
+    <Compile Include="Poll\ConfigurationDetector.cs" />
+    <Compile Include="Poll\JobsSearcher.cs" />
+    <Compile Include="Poll\SystemInfoUpdater.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registration\CertHandler.cs" />
+    <Compile Include="Registration\ChasisTypeFinder.cs" />
+    <Compile Include="Registration\ClientRegistrar.cs" />
+    <Compile Include="Registration\BrowsersDetector.cs" />
+    <Compile Include="Registration\MSOfficeDetector.cs" />
+    <Compile Include="Registration\OSInfo.cs" />
+    <Compile Include="Registration\SystemConfiguration.cs" />
+    <Compile Include="SessionHandler.cs" />
+    <Compile Include="StoreAndForward\StoredAndForward.cs" />
+    <Compile Include="TCPClient.cs" />
+    <Compile Include="TCPSocket.cs" />
+    <Compile Include="TcpUtil.cs" />
+    <Compile Include="TestConfigure.cs" />
+    <Compile Include="TestingCode.cs" />
+    <Compile Include="TestTCPClient.cs" />
+    <Compile Include="Util.cs" />
+    <Compile Include="WinAudit\WinAudit.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Lua\Scripts\ClearCircularBuffer.lua" />
+    <None Include="Lua\Scripts\DropboxDowloadAttachment.lua" />
+    <None Include="Lua\Scripts\DropboxLogin.lua" />
+    <None Include="Lua\Scripts\ExportCircularBuffer.lua" />
+    <None Include="Lua\Scripts\FacebookAttachment.lua" />
+    <None Include="Lua\Scripts\FacebookLogin.lua" />
+    <None Include="Lua\Scripts\GoogleAttachment.lua" />
+    <None Include="Lua\Scripts\GoogleDowloadAttachment.lua" />
+    <None Include="Lua\Scripts\GoogleLogin.lua" />
+    <None Include="Lua\Scripts\GoogleMailSent.lua" />
+    <None Include="Lua\Scripts\HotMailAttachment .lua" />
+    <None Include="Lua\Scripts\HotMailDowloadAttachment.lua" />
+    <None Include="Lua\Scripts\HotMailLogin.lua" />
+    <None Include="Lua\Scripts\HotMailSent.lua" />
+    <None Include="Lua\Scripts\LinkedinAttachment.lua" />
+    <None Include="Lua\Scripts\LinkedinDowloadAttachment.lua" />
+    <None Include="Lua\Scripts\Linkedinlogin.lua" />
+    <None Include="Lua\Scripts\LinkedinSent.lua" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Automatonic.HttpArchive\Automatonic.HttpArchive.csproj">
+      <Project>{80C8BD1F-79B0-4189-8BE8-1CB5D0098A50}</Project>
+      <Name>Automatonic.HttpArchive</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MIMEIdentifier\MIMEIdentifier.csproj">
+      <Project>{1E432E75-4537-4854-8A79-1E097E768A3C}</Project>
+      <Name>MIMEIdentifier</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\pipecomm\pipecomm.csproj">
+      <Project>{0bd73dab-6db3-4faa-ba5c-564d2b71dff6}</Project>
+      <Name>pipecomm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProxyDb\ProxyDb.csproj">
+      <Project>{8D24A6A0-2025-42AF-9A49-AE843C3FCCB9}</Project>
+      <Name>ProxyDb</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RegistryOperations\RegistryOperations.csproj">
+      <Project>{12c89de7-709e-4f4f-94c8-e52ef4c6121d}</Project>
+      <Name>RegistryOperations</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\winaudits\winaudits.csproj">
+      <Project>{c67d6e8d-47b5-428c-a466-55193af6eaad}</Project>
+      <Name>winaudits</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\WindAuditor.exe" />
+    <Content Include="WindAuditor.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

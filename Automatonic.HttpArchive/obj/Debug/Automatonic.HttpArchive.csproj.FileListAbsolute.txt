@@ -1,0 +1,6 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\obj\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\obj\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\obj\Debug\Automatonic.HttpArchive.csprojResolveAssemblyReference.cache

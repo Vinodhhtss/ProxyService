@@ -1,0 +1,5 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyUI\bin\Debug\ProxyUI.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyUI\bin\Debug\ProxyUI.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyUI\obj\Debug\ProxyUI.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyUI\obj\Debug\ProxyUI.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyUI\obj\Debug\ProxyUI.pdb

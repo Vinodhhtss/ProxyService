@@ -1,0 +1,63 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+D:\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+D:\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+D:\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+D:\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+D:\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+E:\Gopi\Gopi\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+E:\Gopi\Gopi\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+E:\Gopi\Gopi\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+E:\Gopi\Gopi\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+E:\Gopi\Gopi\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+E:\Working Spell\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+E:\Working Spell\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+E:\Working Spell\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+E:\Working Spell\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+E:\Working Spell\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.csprojResolveAssemblyReference.cache
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb
+F:\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.dll
+F:\ProxyService2\Automatonic.HttpArchive\bin\Debug\Automatonic.HttpArchive.pdb
+F:\ProxyService2\Automatonic.HttpArchive\bin\Debug\Newtonsoft.Json.dll
+F:\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.dll
+F:\ProxyService2\Automatonic.HttpArchive\obj\x86\Debug\Automatonic.HttpArchive.pdb

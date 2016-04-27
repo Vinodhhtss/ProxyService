@@ -1,0 +1,7 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Forensics\bin\Debug\Forensics.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Forensics\bin\Debug\Forensics.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Forensics\obj\Debug\Interop.SHDocVw.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Forensics\obj\Debug\Forensics.csproj.ResolveComReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Forensics\obj\Debug\Forensics.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Forensics\obj\Debug\Forensics.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Forensics\obj\Debug\Forensics.csprojResolveAssemblyReference.cache

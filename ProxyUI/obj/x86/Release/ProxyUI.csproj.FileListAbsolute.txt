@@ -1,0 +1,13 @@
+D:\ProxyService2\ProxyUI\bin\x86\Release\ProxyUI.dll
+D:\ProxyService2\ProxyUI\bin\x86\Release\ProxyUI.pdb
+D:\ProxyService2\ProxyUI\obj\x86\Release\ProxyUI.dll
+D:\ProxyService2\ProxyUI\obj\x86\Release\ProxyUI.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyUI\bin\x86\Release\ProxyUI.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyUI\bin\x86\Release\ProxyUI.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyUI\obj\x86\Release\ProxyUI.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyUI\obj\x86\Release\ProxyUI.pdb
+F:\ProxyService2\ProxyUI\bin\x86\Release\ProxyUI.dll
+F:\ProxyService2\ProxyUI\bin\x86\Release\ProxyUI.pdb
+F:\ProxyService2\ProxyUI\obj\x86\Release\ProxyUI.dll
+F:\ProxyService2\ProxyUI\obj\x86\Release\ProxyUI.pdb
+F:\ProxyService2\ProxyUI\obj\x86\Release\ProxyUI.csprojResolveAssemblyReference.cache

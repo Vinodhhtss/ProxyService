@@ -1,0 +1,13 @@
+D:\ProxyService2\CertificateManagement\bin\x86\Release\HttpsEncryptionLibrary.dll
+D:\ProxyService2\CertificateManagement\bin\x86\Release\HttpsEncryptionLibrary.pdb
+D:\ProxyService2\CertificateManagement\obj\x86\Release\HttpsEncryptionLibrary.dll
+D:\ProxyService2\CertificateManagement\obj\x86\Release\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\CertificateManagement\bin\x86\Release\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\CertificateManagement\bin\x86\Release\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\CertificateManagement\obj\x86\Release\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\CertificateManagement\obj\x86\Release\HttpsEncryptionLibrary.pdb
+F:\ProxyService2\CertificateManagement\bin\x86\Release\HttpsEncryptionLibrary.dll
+F:\ProxyService2\CertificateManagement\bin\x86\Release\HttpsEncryptionLibrary.pdb
+F:\ProxyService2\CertificateManagement\obj\x86\Release\HttpsEncryptionLibrary.dll
+F:\ProxyService2\CertificateManagement\obj\x86\Release\HttpsEncryptionLibrary.pdb
+F:\ProxyService2\CertificateManagement\obj\x86\Release\CertificateManagement.csprojResolveAssemblyReference.cache

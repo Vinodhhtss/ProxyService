@@ -1,0 +1,4 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\pipecomm\bin\Debug\pipecomm.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\pipecomm\bin\Debug\pipecomm.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\pipecomm\obj\Debug\pipecomm.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\pipecomm\obj\Debug\pipecomm.pdb

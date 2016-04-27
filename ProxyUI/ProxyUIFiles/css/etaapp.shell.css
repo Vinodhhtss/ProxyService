@@ -1,0 +1,168 @@
+/*
+ * etaapp.shell.css
+ * Shell styles
+ */
+
+ .etaapp-shell-head, .etaapp-shell-head-logo, .etaapp-shell-head-title, .etaapp-shell-head-acct,
+.etaapp-shell-head-search, .etaapp-shell-main, .etaapp-shell-head-border, .etaapp-shell-main-nav, .etaapp-shell-main-content, .etapp-shell-foot-border, .etaapp-shell-foot-text, 
+ .etaapp-shell-foot {
+   position : absolute;
+ }
+
+ .etaapp-shell-foot-text {
+    top           : 8px;
+    width         : 100%;
+    margin        : 0 auto;
+ }
+  
+ .etaapp-shell-head {
+   top     : 0;
+   left    : 0;
+   right   : 0;
+   height  : 100px;
+   text-align : center;
+   background : #fff;
+ }
+
+ .etaapp-shell-head-border {
+   top     : 90px;
+   left    : 0;
+   right   : 0;
+   height  : 10px;
+   background : #000;
+
+ }
+ .etaapp-shell-foot-border {
+   left    : 0;
+   right   : 0;
+   height  : 6px;
+   background : #000;
+ }
+
+
+ .etaapp-shell-head-logo {
+   top     : 10px;
+   left    : 4px;
+   height  : 80px;
+   width   : 228px;
+   background : #fff;
+ }
+
+ .etaapp-shell-head-title {
+   width      : 100%;
+   top        : 30px;
+   font  : 40px  georgia, serif;
+ } 
+
+ .etaapp-shell-head-acct {
+   top     : 10px;
+   right   : 0;
+   width   : 64px;
+   height  : 80px;
+   background : #fff;
+ }
+ .etaapp-shell-head-search {
+   top     :  10px;
+   right   : 64px;
+   width   : 248px;
+   height  : 80px;
+   background : #fff;
+ }
+ .etaapp-shell-main {
+   top     : 106px;
+   left    : 0;
+   bottom  : 40px;
+   right   : 0;
+   background : #fff; 
+ }
+ .etaapp-shell-main-content,
+ .etaapp-shell-main-nav {
+   top      : 0;
+   bottom   : 0;
+ }
+
+ .etaapp-shell-main-nav {
+     width      : 242px;
+     background : url(../images/left_separator_1.png) right center no-repeat;
+     float      : left;
+     min-height : 730px;
+ }
+
+ .etaapp-x-closed .etaapp-shell-main-nav {
+   width      : 0;
+ }
+
+ .etaapp-shell-main-content {
+   left       : 250px;
+   right      : 0;
+   background : #fff;
+   z-index    : 2;
+ }
+
+ .etaapp-shell-main-modal {
+   margin-top    :  200px;
+   margin-left   :  400px;
+   top           :  50%;
+   left          :  50%;
+   width         :  600px;
+   height        :  600px;
+   background    :  #888; 
+   color         :  #fff;
+   border-radius :  8px;
+   z-index       :  -11;
+ }
+
+ .etaapp-x-closed .etaapp-shell-main-content {
+   left       : 0;
+ }
+
+ .etaapp-shell-foot {
+   bottom     : 0;
+   left       : 0;
+   right      : 0;
+   height     : 40px;
+   text-align : center;
+   background : #000;
+   color      : #fff;
+ }
+
+ /* Content Common Styles */
+
+ #etaapp-content-titlebar
+ {
+   margin     : 10px;
+   width      : 1150px;
+   height     : 45px;
+   background : url(../images/content-titlebar-bg.png) repeat-x;
+   border-radius  : 10px;
+ }
+
+ #etaapp-content-titlebar-text
+ {
+    background    : url(../images/titlebar-separator.png) no-repeat left center;
+    height        : 33px;
+    width         : 1000px;
+    float         : left;
+    padding       : 10px 15px 0 15px;
+    font-size     : 18px;
+    color         : #fff;
+    text-align    : center;
+ }
+
+ #etaapp-content-titlebar-icon
+ {
+    background    : url(../images/content-titlebar-icon-bg.png) repeat-x;
+    width         : 30px;
+    height        : 33px;
+    float         : left;
+    padding       : 11px 8px 0 11px; 
+    border-top-left-radius : 10px;
+    border-bottom-left-radius : 10px;
+ }
+
+ #etaapp-content-right-others
+ {
+    float         : right;
+    width         : 1200px;
+    min-height    : 530px;
+ }

@@ -1,0 +1,22 @@
+D:\ProxyService2\ProxyDb\bin\x86\Release\SQLite.Interop.dll
+D:\ProxyService2\ProxyDb\bin\x86\Release\ProxyDataBase.exe.config
+D:\ProxyService2\ProxyDb\bin\x86\Release\ProxyDataBase.exe
+D:\ProxyService2\ProxyDb\bin\x86\Release\ProxyDataBase.pdb
+D:\ProxyService2\ProxyDb\bin\x86\Release\System.Data.SQLite.dll
+D:\ProxyService2\ProxyDb\obj\x86\Release\ProxyDataBase.exe
+D:\ProxyService2\ProxyDb\obj\x86\Release\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\bin\x86\Release\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\bin\x86\Release\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\bin\x86\Release\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\obj\x86\Release\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\bin\x86\Release\ProxyDataBase.dll.config
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\bin\x86\Release\ProxyDataBase.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\obj\x86\Release\ProxyDb.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyDb\obj\x86\Release\ProxyDataBase.dll
+F:\ProxyService2\ProxyDb\bin\x86\Release\ProxyDataBase.dll.config
+F:\ProxyService2\ProxyDb\bin\x86\Release\ProxyDataBase.dll
+F:\ProxyService2\ProxyDb\bin\x86\Release\ProxyDataBase.pdb
+F:\ProxyService2\ProxyDb\bin\x86\Release\System.Data.SQLite.dll
+F:\ProxyService2\ProxyDb\obj\x86\Release\ProxyDataBase.dll
+F:\ProxyService2\ProxyDb\obj\x86\Release\ProxyDataBase.pdb
+F:\ProxyService2\ProxyDb\obj\x86\Release\ProxyDb.csprojResolveAssemblyReference.cache

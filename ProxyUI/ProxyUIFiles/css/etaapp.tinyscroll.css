@@ -1,0 +1,66 @@
+/*
+ * etaapp.tinyscroll.css
+ * Scroll related CSS
+ */
+#etaapp-scrollbar1 
+{
+  width: 1150px;
+  height: 640px;
+  clear: both; 
+  margin: 20px 0 10px; 
+  text-align:justify;
+}
+#etaapp-scrollbar1 .viewport 
+{ 
+  width: 1135px; 
+  height: 640px; 
+  overflow: hidden;
+  position: relative; 
+}
+#etaapp-scrollbar1 .overview 
+{ 
+  color:#fff; 
+  list-style: none; 
+  position: absolute; 
+  left: 0; 
+  top: 0; 
+}
+#etaapp-scrollbar1 .thumb .end,
+#etaapp-scrollbar1 .thumb 
+{ 
+  background-color: #00A9E0; 
+}
+#etaapp-scrollbar1 .scrollbar 
+{ 
+  position: relative; 
+  float: right; 
+  width: 15px; 
+}
+#etaapp-scrollbar1 .track 
+{ 
+  background-color: #999; 
+  height: 100%; 
+  width:8px; 
+  position: relative;  
+}
+#etaapp-scrollbar1 .thumb 
+{ 
+  height: 20px; 
+  width: 8px; 
+  cursor: pointer; 
+  overflow: hidden; 
+  position: absolute; 
+  top: 0; 
+}
+#etaapp-scrollbar1 .thumb .end 
+{ 
+  overflow: hidden; 
+  height: 5px; 
+  width: 8px; 
+}
+#etaapp-scrollbar1 .disable
+{
+  display: none; 
+}
+
+.noSelect { user-select: none; -o-user-select: none; -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; }

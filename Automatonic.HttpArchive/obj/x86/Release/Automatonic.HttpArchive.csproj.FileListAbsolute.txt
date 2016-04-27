@@ -1,0 +1,17 @@
+D:\ProxyService2\Automatonic.HttpArchive\bin\Release\Automatonic.HttpArchive.dll
+D:\ProxyService2\Automatonic.HttpArchive\bin\Release\Automatonic.HttpArchive.pdb
+D:\ProxyService2\Automatonic.HttpArchive\bin\Release\Newtonsoft.Json.dll
+D:\ProxyService2\Automatonic.HttpArchive\obj\x86\Release\Automatonic.HttpArchive.dll
+D:\ProxyService2\Automatonic.HttpArchive\obj\x86\Release\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\bin\Release\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\bin\Release\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\bin\Release\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\obj\x86\Release\Automatonic.HttpArchive.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\obj\x86\Release\Automatonic.HttpArchive.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\Automatonic.HttpArchive\obj\x86\Release\Automatonic.HttpArchive.csprojResolveAssemblyReference.cache
+F:\ProxyService2\Automatonic.HttpArchive\bin\Release\Automatonic.HttpArchive.dll
+F:\ProxyService2\Automatonic.HttpArchive\bin\Release\Automatonic.HttpArchive.pdb
+F:\ProxyService2\Automatonic.HttpArchive\bin\Release\Newtonsoft.Json.dll
+F:\ProxyService2\Automatonic.HttpArchive\obj\x86\Release\Automatonic.HttpArchive.dll
+F:\ProxyService2\Automatonic.HttpArchive\obj\x86\Release\Automatonic.HttpArchive.pdb
+F:\ProxyService2\Automatonic.HttpArchive\obj\x86\Release\Automatonic.HttpArchive.csprojResolveAssemblyReference.cache

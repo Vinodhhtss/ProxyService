@@ -1,0 +1,23 @@
+C:\work\research\winaudits\sampleprog\winaudits\winaudittest\bin\x86\Debug\winaudittest.exe
+C:\work\research\winaudits\sampleprog\winaudits\winaudittest\bin\x86\Debug\winaudittest.pdb
+C:\work\research\winaudits\sampleprog\winaudits\winaudittest\bin\x86\Debug\winaudits.dll
+C:\work\research\winaudits\sampleprog\winaudits\winaudittest\bin\x86\Debug\winaudits.pdb
+C:\work\research\winaudits\sampleprog\winaudits\winaudittest\obj\x86\Debug\winaudittest.csprojResolveAssemblyReference.cache
+C:\work\research\winaudits\sampleprog\winaudits\winaudittest\obj\x86\Debug\winaudittest.exe
+C:\work\research\winaudits\sampleprog\winaudits\winaudittest\obj\x86\Debug\winaudittest.pdb
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudittest\obj\x86\Debug\winaudittest.exe
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudittest\obj\x86\Debug\winaudittest.pdb
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudittest\bin\x86\Debug\winaudittest.exe
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudittest\bin\x86\Debug\winaudittest.pdb
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudittest\bin\x86\Debug\winaudits.dll
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudittest\bin\x86\Debug\winaudits.pdb
+C:\fireeye\prox\audits\2\winaudits\winaudits\winaudittest\obj\x86\Debug\winaudittest.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\winaudittest.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\winaudittest.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\winaudits.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\winaudits.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\obj\x86\Debug\winaudittest.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\obj\x86\Debug\winaudittest.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\obj\x86\Debug\winaudittest.pdb

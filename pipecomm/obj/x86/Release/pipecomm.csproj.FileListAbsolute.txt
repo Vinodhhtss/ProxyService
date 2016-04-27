@@ -1,0 +1,13 @@
+D:\ProxyService2\pipecomm\bin\x86\Release\pipecomm.dll
+D:\ProxyService2\pipecomm\bin\x86\Release\pipecomm.pdb
+D:\ProxyService2\pipecomm\obj\x86\Release\pipecomm.dll
+D:\ProxyService2\pipecomm\obj\x86\Release\pipecomm.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\pipecomm\bin\x86\Release\pipecomm.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\pipecomm\bin\x86\Release\pipecomm.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\pipecomm\obj\x86\Release\pipecomm.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\pipecomm\obj\x86\Release\pipecomm.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\pipecomm\obj\x86\Release\pipecomm.csprojResolveAssemblyReference.cache
+F:\ProxyService2\pipecomm\bin\x86\Release\pipecomm.dll
+F:\ProxyService2\pipecomm\bin\x86\Release\pipecomm.pdb
+F:\ProxyService2\pipecomm\obj\x86\Release\pipecomm.dll
+F:\ProxyService2\pipecomm\obj\x86\Release\pipecomm.pdb

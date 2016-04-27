@@ -1,0 +1,315 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Fortesting\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+D:\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+D:\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+D:\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+D:\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\From Ramesh\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\For Testing\ProxyService2\RegistryOperations\bin\x86\Debug\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Testing\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe.config
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\log4net.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe.config
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\log4net.dll
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Gopi\Gopi\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe.config
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\log4net.dll
+E:\Working Spell\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Working Spell\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+E:\Working Spell\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Working Spell\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe.config
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe.config
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\sqlite3.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\ssl3.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\certutil.exe
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\freebl3.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libnspr4.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplc4.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\libplds4.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nss3.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssckbi.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssdbm3.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\nssutil3.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\smime3.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\softokn3.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\mozilla.cfg
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\cert8.db
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\key3.db
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\FirefoxTools\secmod.db
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\local-settings.js
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe.config
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.exe
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\AddRegisterEntriesInstaller.pdb
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.dll
+F:\ProxyService2\RegistryOperations\bin\x86\Debug\HttpsEncryptionLibrary.pdb
+F:\ProxyService2\RegistryOperations\obj\x86\Debug\RegistryOperations.csprojResolveAssemblyReference.cache
+F:\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.exe
+F:\ProxyService2\RegistryOperations\obj\x86\Debug\AddRegisterEntriesInstaller.pdb

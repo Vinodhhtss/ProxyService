@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigParameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AgentInstaller>
+    <AgentID>0</AgentID>
+  </AgentInstaller>
+  <ServerDetails>
+    <MainServerIP>54.151.59.162</MainServerIP>
+    <MainServerPort>8872</MainServerPort>
+    <BackupServerIP>192.168.1.210</BackupServerIP>
+    <BackupServerPort>8872</BackupServerPort>
+  </ServerDetails>
+  <Policies>
+    <PolicyId>1</PolicyId>
+    <PolicyName>test7</PolicyName>
+    <IsProxyEnabled>true</IsProxyEnabled>
+    <HeartBeatInterval>60000</HeartBeatInterval>
+    <LazyUpload>5000</LazyUpload>
+    <MaxRetention>2</MaxRetention>
+    <PolicyVersion>14</PolicyVersion>
+  </Policies>
+  <ByPassDetails />
+  <UpStreamProxies>
+    <IPAddress />
+    <Port />
+  </UpStreamProxies>
+</ConfigParameters>

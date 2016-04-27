@@ -1,0 +1,12 @@
+D:\ProxyService2\MIMEIdentifier\bin\Release\MIMEIdentifier.dll
+D:\ProxyService2\MIMEIdentifier\bin\Release\MIMEIdentifier.pdb
+D:\ProxyService2\MIMEIdentifier\obj\x86\Release\MIMEIdentifier.dll
+D:\ProxyService2\MIMEIdentifier\obj\x86\Release\MIMEIdentifier.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\MIMEIdentifier\bin\Release\MIMEIdentifier.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\MIMEIdentifier\bin\Release\MIMEIdentifier.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\MIMEIdentifier\obj\x86\Release\MIMEIdentifier.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\MIMEIdentifier\obj\x86\Release\MIMEIdentifier.pdb
+F:\ProxyService2\MIMEIdentifier\bin\Release\MIMEIdentifier.dll
+F:\ProxyService2\MIMEIdentifier\bin\Release\MIMEIdentifier.pdb
+F:\ProxyService2\MIMEIdentifier\obj\x86\Release\MIMEIdentifier.dll
+F:\ProxyService2\MIMEIdentifier\obj\x86\Release\MIMEIdentifier.pdb

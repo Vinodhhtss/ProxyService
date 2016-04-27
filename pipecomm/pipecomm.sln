@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipecomm", "pipecomm.csproj", "{0BD73DAB-6DB3-4FAA-BA5C-564D2B71DFF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipeserver", "..\pipeserver\pipeserver.csproj", "{185B291E-A8C8-4ABD-82A5-1BB3C3CF4852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipeclient", "..\pipeclient\pipeclient.csproj", "{31C5AC0C-F774-4B1D-BBD9-ECC3DA42E7FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInfoMonitor", "..\..\appmon\AppInfoMonitor\AppInfoMonitor.csproj", "{A5D9324F-D09A-4151-8820-A78B9A3A6FF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testservice", "..\..\appmon\testservice\testservice.csproj", "{9250CC08-CC03-4FCD-A21E-1F5EF1FC3DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserProcess", "..\..\appmon\UserProcess\UserProcess.csproj", "{929F9803-EC3E-40A9-9971-9023868D8391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BD73DAB-6DB3-4FAA-BA5C-564D2B71DFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD73DAB-6DB3-4FAA-BA5C-564D2B71DFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD73DAB-6DB3-4FAA-BA5C-564D2B71DFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD73DAB-6DB3-4FAA-BA5C-564D2B71DFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185B291E-A8C8-4ABD-82A5-1BB3C3CF4852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185B291E-A8C8-4ABD-82A5-1BB3C3CF4852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185B291E-A8C8-4ABD-82A5-1BB3C3CF4852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185B291E-A8C8-4ABD-82A5-1BB3C3CF4852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C5AC0C-F774-4B1D-BBD9-ECC3DA42E7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C5AC0C-F774-4B1D-BBD9-ECC3DA42E7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C5AC0C-F774-4B1D-BBD9-ECC3DA42E7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C5AC0C-F774-4B1D-BBD9-ECC3DA42E7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D9324F-D09A-4151-8820-A78B9A3A6FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D9324F-D09A-4151-8820-A78B9A3A6FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D9324F-D09A-4151-8820-A78B9A3A6FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D9324F-D09A-4151-8820-A78B9A3A6FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9250CC08-CC03-4FCD-A21E-1F5EF1FC3DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9250CC08-CC03-4FCD-A21E-1F5EF1FC3DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9250CC08-CC03-4FCD-A21E-1F5EF1FC3DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9250CC08-CC03-4FCD-A21E-1F5EF1FC3DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929F9803-EC3E-40A9-9971-9023868D8391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929F9803-EC3E-40A9-9971-9023868D8391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929F9803-EC3E-40A9-9971-9023868D8391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929F9803-EC3E-40A9-9971-9023868D8391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

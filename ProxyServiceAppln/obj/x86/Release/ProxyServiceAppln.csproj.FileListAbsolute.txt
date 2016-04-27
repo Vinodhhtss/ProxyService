@@ -1,0 +1,64 @@
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\SQLite.Interop.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyService.exe.config
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyService.exe
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyService.pdb
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\HTTPProxyServer.exe
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\log4net.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\Neo.Lua.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyDataBase.exe
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyUI.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\MIMEIdentifier.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\HttpsEncryptionLibrary.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\System.Data.SQLite.dll
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\HTTPProxyServer.pdb
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyDataBase.pdb
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyUI.pdb
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\MIMEIdentifier.pdb
+D:\ProxyService2\ProxyServiceAppln\bin\x86\Release\HttpsEncryptionLibrary.pdb
+D:\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+D:\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyServiceAppln.ProjectInstaller.resources
+D:\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyServiceAppln.csproj.GenerateResource.Cache
+D:\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyService.exe
+D:\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyServiceAppln.ProjectInstaller.resources
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyServiceAppln.csproj.GenerateResource.Cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyService.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyService.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyService.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyService.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\HTTPProxyServer.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\Neo.Lua.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyUI.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\MIMEIdentifier.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\HTTPProxyServer.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyDataBase.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyUI.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\MIMEIdentifier.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyDataBase.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyService.exe.config
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyService.exe
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyService.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\HTTPProxyServer.exe
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\Neo.Lua.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyDataBase.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyUI.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\MIMEIdentifier.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\HttpsEncryptionLibrary.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\System.Data.SQLite.dll
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\HTTPProxyServer.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyDataBase.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\ProxyUI.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\MIMEIdentifier.pdb
+F:\ProxyService2\ProxyServiceAppln\bin\x86\Release\HttpsEncryptionLibrary.pdb
+F:\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyServiceAppln.csprojResolveAssemblyReference.cache
+F:\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyServiceAppln.ProjectInstaller.resources
+F:\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyServiceAppln.csproj.GenerateResource.Cache
+F:\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyService.exe
+F:\ProxyService2\ProxyServiceAppln\obj\x86\Release\ProxyService.pdb

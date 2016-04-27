@@ -1,0 +1,5 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\CertificateManagement\bin\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\CertificateManagement\bin\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\CertificateManagement\obj\Debug\HttpsEncryptionLibrary.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\CertificateManagement\obj\Debug\HttpsEncryptionLibrary.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\CertificateManagement\obj\Debug\CertificateManagement.csprojResolveAssemblyReference.cache

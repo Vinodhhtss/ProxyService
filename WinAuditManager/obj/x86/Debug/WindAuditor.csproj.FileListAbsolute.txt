@@ -1,0 +1,124 @@
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\WindAuditor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\WindAuditor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\Ionic.Zip.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\winaudits.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\bin\x86\Debug\winaudits.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\obj\x86\Debug\WindAuditor.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\obj\x86\Debug\WindAuditor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\Code from client\winaudits-auto-usr-install\winaudits\winaudittest\obj\x86\Debug\WindAuditor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\bin\x86\Debug\WindAuditor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\bin\x86\Debug\WindAuditor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\bin\x86\Debug\Ionic.Zip.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\bin\x86\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\bin\x86\Debug\winaudits.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\bin\x86\Debug\winaudits.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\obj\x86\Debug\WindAuditor.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\obj\x86\Debug\WindAuditor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\obj\x86\Debug\WindAuditor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\winaudittest\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\log4net.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\Newtonsoft.Json.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\System.Data.SQLite.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\Microsoft.Win32.TaskScheduler.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.csprojResolveAssemblyReference.cache
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.pdb
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe.config
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\SQLite.Interop.dll
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe
+E:\Samples\Samples\Code to Test Client\Separated Process\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.pdb
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe.config
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.exe
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.pdb
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\SQLite.Interop.dll
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.pdb
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\log4net.dll
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\Newtonsoft.Json.dll
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.dll
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\System.Data.SQLite.dll
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.dll
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\Microsoft.Win32.TaskScheduler.dll
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.pdb
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.pdb
+E:\Gopi\Gopi\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.csprojResolveAssemblyReference.cache
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe.config
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.exe
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\SQLite.Interop.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\log4net.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\Newtonsoft.Json.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\System.Data.SQLite.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\Microsoft.Win32.TaskScheduler.dll
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.pdb
+\\WKSA3\Gopi\Gopi\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.csprojResolveAssemblyReference.cache
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\SQLite.Interop.dll
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe.config
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.pdb
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\log4net.dll
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\Newtonsoft.Json.dll
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.dll
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\System.Data.SQLite.dll
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.dll
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\Microsoft.Win32.TaskScheduler.dll
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.pdb
+E:\Working Spell\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.pdb
+E:\Working Spell\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.csprojResolveAssemblyReference.cache
+E:\Working Spell\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.exe
+E:\Working Spell\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\SQLite.Interop.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe.config
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\Newtonsoft.Json.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\System.Data.SQLite.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\Microsoft.Win32.TaskScheduler.dll
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.pdb
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.csprojResolveAssemblyReference.cache
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.exe
+E:\Works\Sri Seshaa\ProxyService\Source\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\SQLite.Interop.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe.config
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\Newtonsoft.Json.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\System.Data.SQLite.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\Microsoft.Win32.TaskScheduler.dll
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.pdb
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.csprojResolveAssemblyReference.cache
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.exe
+\\wksa9\Vinodh Share\For Gopi\20160424\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.pdb
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\SQLite.Interop.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe.config
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.exe
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\WindAuditor.pdb
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\Newtonsoft.Json.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\System.Data.SQLite.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\Microsoft.Win32.TaskScheduler.dll
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\winaudits.pdb
+F:\ProxyService2\WinAuditManager\bin\x86\Debug\Forensics.pdb
+F:\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.csprojResolveAssemblyReference.cache
+F:\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.exe
+F:\ProxyService2\WinAuditManager\obj\x86\Debug\WindAuditor.pdb

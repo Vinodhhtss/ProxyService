@@ -1,0 +1,131 @@
+/* 
+ * etaapp.menu.css
+ * Menu Styles
+ */
+
+  #etaapp-menu-top {
+    width      : 238px;
+    height     : 50px; 
+    background : url(../images/menu-top-bg.jpg) repeat-x;
+    border-top-left-radius  : 10px;
+    border-top-right-radius : 10px;
+    margin     : 10px 1px 0 1px;
+  } 
+  #etaapp-menu-report-div {
+    float      : left;
+    width      : 119px;
+    height     : 50px;
+    position   : absolute;
+  }  
+  #etaapp-menu-report-div:hover, .etaapp-menu-reportactive
+  { 
+    background: url(../images/reports-active-bg.png) no-repeat;
+    height: 50px;
+    width : 129px;
+    cursor : pointer;
+    font-color : #fff;
+  }
+  #etaapp-menu-malware-div {
+     float      : right;
+     width      : 119px;
+     height     : 50px;
+     margin     : 0 0 0 120px;
+     position   : absolute;
+  }
+  #etaapp-menu-malware-div:hover, .etaapp-menu-malwareactive
+  {
+     background : url(../images/malware-active-bg.png) no-repeat;
+     height     : 50px;
+     width      : 129px;
+     cursor     : pointer;
+  } 
+  #etaapp-menu-report
+  {
+     background : url(../images/reports-icon.png) no-repeat left center;
+     margin     : 15px;
+     padding    : 0 0 0 20px;
+     font-size  : 15px;
+     color      : #fff;
+  }
+  #etaapp-menu-malware
+  {
+     background : url(../images/malware-icon.png) no-repeat left center;
+     margin     : 15px 15px 15px 25px;
+     padding    : 0 0 0 20px;
+     font-size  : 15px;
+     color      : #fff;
+  }
+  #etaapp-menu-left-others
+  {
+     width      : 240px;
+     background : url(../images/left_separator_1.png) right center no-repeat;
+     float      : left;
+     min-height : 530px;
+  }
+  .menubg, .menubg-trends, .menubg-run, .menubg-family, .menubg-behavior, 
+  .menubg-search 
+  {
+     width            :   238px; 
+     height           :   28px; 
+     background       :   url(../images/menu3-bg.jpg) repeat-x; 
+     cursor           :   pointer;
+     _float           :   none;
+     margin           :   0 1px 0 1px;
+     color            :   #fff;
+     padding          :   5px 0 0 10px;
+     font-size        :   15px;
+  }
+  .menu3g
+  {
+     width            :   210px;
+     height           :   28px;
+     background       :   url(../images/menu-bg.jpg) repeat-x; 
+     cursor           :   pointer;
+     _float           :   none;
+     margin           :   0 1px 0 1px;
+     color            :   #fff;
+     padding          :   5px 0 0 10px;
+     font-size        :   15px;
+  } 
+
+  .menu3bgactive, .menu3bg:hover 
+  {
+     background       :   url(../images/menu-active-bg.jpg) repeat-x;
+  }
+  
+  .menubg:hover, .menubgactive
+  {
+     background       :   url(../images/menu-active-bg.jpg) repeat-x;
+  } 
+
+  #menu1, #menu2, #menu3, #menu-accord
+  {
+     display          :   none;
+  }
+
+
+  #menubgactive
+  {
+     display           :  block;
+  }
+
+
+  .menu-trends, .menu-run, .menu-family, .menu-behavior, .menu-search
+  {
+     width         : 218px;
+     background    : url(../images/arrow-left.png) no-repeat right;
+  }
+
+
+  #menu-style-close
+  {
+     width         : 238px;
+     background    : url(../images/arrow-left.png) no-repeat right;
+  }
+
+   #menu-style-open
+   {
+     width         :  238px;
+     background    :  url(../images//arrow-right.png) no-repeat right;
+   }
+
